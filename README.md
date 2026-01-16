@@ -1,2 +1,2 @@
-# DevOps_my-first-repo
-Repo created in lab 1.2
+# My First REpository
+This is my first repository as a developer student. I am learning how to use Git and GitHub in a professional setting!
